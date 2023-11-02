@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mohammed Bin Salman Al Saud",
+    "age": 38,
+    "country": "KSA",
+    "type": "Crown Prince"
+  },
+  {
+    "name": "Xi Jingping",
+    "age": 70,
+    "country": "PRC",
+    "type": "President"
+  },
+  {
+    "name": "Joe Biden",
+    "age": 80,
+    "country": "USA",
+    "type": "President"
+  },
+  {
+    "name": "Narendra Modi",
+    "age": 73,
+    "country": "ROI",
+    "type": "Prime Minister"
+  },
+  {
+    "name": "Olaf Scholz",
+    "age": 65,
+    "country": "BRD",
+    "type": "Kanzler"
+  }
+]
